@@ -2,11 +2,9 @@
 
 <h3 align="center">AI Automation / Fullstack Developer from Ukraine 🇺🇦</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=emanuildemianyuk&label=Profile%20views&color=0e75b6&style=flat" alt="emanuildemianyuk" />
-</p>
+<table>
+<tr>
+<td>
 
 ## 🚀 About Me
 
@@ -17,14 +15,20 @@
 - 🌱 Currently deepening knowledge in **AI Agents**, **Next.js**, and **FastAPI**
 - 🎵 Fun fact: I am musician
 
----
-
 ## 📫 Contact Me
 
 - 📧 Email: **mjbinancetop@gmail.com**
 - 📱 Phone: **+380 93 023 74 78**
 - 📍 Location: **Chernivtsi, Ukraine**
 
+</td>
+
+<td>
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="320" />
+</td>
+
+</tr>
+</table>
 ---
 
 ## 🌐 Connect with Me
