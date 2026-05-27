@@ -164,19 +164,7 @@
 - Telegram Bots
 - Scalable Backend Architecture
 - Internal Business Tools
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emanuildemianyuk&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuildemianyuk&layout=compact&theme=tokyonight" alt="langs" />
-</p>
-
+- 
 ---
 
 ## ⚡ Quote
