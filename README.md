@@ -17,7 +17,7 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: **mjbinancetop@gmail.com**
+- 📧 Email: **emanuildemianyuk@gmail.com**
 - 📱 Phone: **+380 93 023 74 78**
 - 📍 Location: **Chernivtsi, Ukraine**
 
